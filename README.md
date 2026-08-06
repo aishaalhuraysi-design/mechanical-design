@@ -117,9 +117,11 @@ Future iterations can improve these aspects through mechanical optimization.
 
 ## 📸 Design Preview
 
-| Side View | Top View | Joint Close-up |
-|-----------|----------|----------------|
-| ![](Design Preview/side-view .png) | ![](Design Preview/top-view.png) | ![](Design Preview/joints.png) |
+![](Design%20Preview/Side%20View%20.png)
+
+![](Design%20Preview/Top%20View%20.png)
+
+![](Design%20Preview/Joint%20Close-up%20.png)
 
 ---
 
