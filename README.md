@@ -114,37 +114,12 @@ Future iterations can improve these aspects through mechanical optimization.
 
 ---
 
+
 ## 📸 Design Preview
 
-> Add your screenshots here.
-
-### Front View
-
-```
-images/design1.png
-```
-
-### Side View
-
-```
-images/design2.png
-```
-
-### Final Design
-
-```
-images/final_design.png
-```
-
-After uploading the images, replace the code blocks above with:
-
-```markdown
-![Front View](images/design1.png)
-
-![Side View](images/design2.png)
-
-![Final Design](images/final_design.png)
-```
+| Side View | Top View | Joint Close-up |
+|-----------|----------|----------------|
+| ![](Design Preview/side-view .png) | ![](Design Preview/top-view.png) | ![](Design Preview/joints.png) |
 
 ---
 
