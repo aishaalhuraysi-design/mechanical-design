@@ -117,24 +117,7 @@ Future iterations can improve these aspects through mechanical optimization.
 
 ## 📸 Design Preview
 
-<table align="center">
-  <tr>
-    <th>Side View</th>
-    <th>Top View</th>
-    <th>Joint Close-up</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Design%20Preview/side-view.png" width="260">
-    </td>
-    <td align="center">
-      <img src="Design%20Preview/top-view.png" width="260">
-    </td>
-    <td align="center">
-      <img src="Design%20Preview/joint-closeup.png" width="260">
-    </td>
-  </tr>
-</table>
+
 
 <img src="Design%20Preview/Side%20View%20.png" width="260">
 <img src="Design%20Preview/Top%20View%20.png" width="260">
